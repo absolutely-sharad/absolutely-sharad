@@ -6,13 +6,18 @@
 <img align = "right" alt="Coding Lover" width="500" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-3.gif">
 
 
-- 🌱 I’m currently learning **DSA and React**
+- 👋 Hey there! I'm Sharad Singh Kushwaha, a B.Tech CSE undergrad 🎓.
 
-- 💬 Ask me about **Open source and frontend**
+- 💻 Tech enthusiast with skills in HTML, CSS, JS, Java, React.js, and DSA.
 
-- 📫 How to reach me **sharadsingh0203@gmail.com**
+- 🚀 Lifelong learner on a coding journey. Always eager to explore new technologies.
 
-- 😄 Pronouns **He/him**
+- 🌱 Currently honing my skills in algorithms and data structures.
+
+- 👨‍💻 Love contributing to open source projects. Let's collaborate and make an impact!
+
+- 📚 On a mission to turn caffeine into code ☕.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
