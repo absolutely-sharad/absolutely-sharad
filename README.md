@@ -34,7 +34,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinti0001&" alt="pinti0001" /></p>
 
-const sharad = {
+<script> const sharad = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
@@ -56,3 +56,4 @@ const sharad = {
     currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
+</script>
