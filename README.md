@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/SharadSing0203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharad" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sharad-singh-kushwaha-679154292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sharadsinghkushwaha0203092705/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharad" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sharadsinghkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharad" height="30" width="40" /></a>
-<a href="https://instagram.com/pintu_pk008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_me_sharad_0209_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharad" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/SharadMauryaTech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sharad" height="30" width="40" /></a>
 <a href="https://leetcode.com/sharadsingh0203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharad" height="30" width="40" /></a>
 </p>
@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinti0001&show_icons=true&locale=en" alt="sharad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinti0001&" alt="sharad"" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=pinti0001&](https://github-readme-streak-stats.herokuapp.com?user=absolutely-sharad&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)https://github-readme-streak-stats.herokuapp.com?user=absolutely-sharad&theme=dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="sharad"" /></p>
