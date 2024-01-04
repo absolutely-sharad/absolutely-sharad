@@ -2,8 +2,8 @@
 <h3 align="center">A passionate fullStack developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinti0001&label=Profile%20views&color=0e75b6&style=flat" alt="pinti0001" /> </p>
-<img align = "right" alt="Coding Lover" width="500" src="https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-3.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=absolutely-sharad&label=Profile%20views&color=0e75b6&style=flat" alt="absolutely-sharad" /> </p>
+<img align = "right" alt="Coding Lover" width="500" src="[https://www.gifcen.com/wp-content/uploads/2023/06/hacker-gif-3.gif](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)">
 
 
 - 👋 Hey there! I'm Sharad Singh Kushwaha, a B.Tech CSE undergrad 🎓.
