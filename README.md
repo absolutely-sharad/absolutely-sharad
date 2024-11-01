@@ -32,8 +32,7 @@
 <br>
 <p><img align="centre" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=absolutely-sharad&show_icons=true&locale=en&layout=compact" alt="sharad" /> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=absolutely-sharad&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="Sharad"/></a><img src="https://github-readme-stats.vercel.app/api?username=absolutely-sharad&show_icons=true&locale=en" alt="sharad" /></p>
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -48,6 +47,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-</details>
+
 
 
